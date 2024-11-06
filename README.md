@@ -13,7 +13,7 @@ Este informe analiza las condiciones actuales del mercado de locales de comida e
 ## Herramientas Utilizadas
 - __Lenguaje de Programación:__ Python.
 - __Entorno de Desarrollo:__ Jupyter Notebook.
-- __Bibliotecas:__ Pandas, Matplotlib.
+- __Bibliotecas:__ Pandas, Matplotlib, Seaborn.
 
 ## Proceso del Proyecto
 Para completar el análisis de mercado exitosamente se definió la siguiente lista de acciones y preguntas que fueron resueltas en el análisis.
@@ -26,9 +26,11 @@ Para completar el análisis de mercado exitosamente se definió la siguiente lis
 - Trazar un gráfico de las diez mejores calles por número de restaurantes.
 - Encontrar el número de calles que solo tienen un restaurante.
 - Para las calles con muchos restaurantes, analizar la distribución del número de asientos y detectar tendencias.
+- Evaluar la posibilidad de montar una cadena de cafeterías robóticas.
+- Construir una presentación para mostrar a los potenciales inversores.
   
 ## Relevancia de los descubrimientos
-El análisis de datos de Instacart reveló patrones importantes en el comportamiento de compra de los clientes. Estos insights pueden ser utilizados para optimizar las estrategias de marketing, gestión de inventarios y mejorar la experiencia del cliente.
+El análisis del mercado de restaurantes en Los Angeles reveló patrones importanes en la distribución de locales de comida en la ciudad, y también pros y contras de construir una cadena de cafeterías roboticas, proporcionando a los inversores información muy valiosa para dar los primeros pasos en el negocio planteado.
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20Instacart.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.
