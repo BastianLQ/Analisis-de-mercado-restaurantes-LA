@@ -6,7 +6,9 @@ __Proyecto de análisis a la plataforma de delivery Instacart, análisis explora
 _Fragmentos del notebook, para ver proyecto completo hacer click [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20Instacart.html)_
 
 ## Descripción del Proyecto
-Este proyecto tiene como objetivo analizar datos de Instacart para extraer información valiosa sobre el comportamiento de los clientes y las tendencias de los productos. Utilizando [cinco datasets](https://drive.google.com/drive/folders/11ludpzThvf-xB6LfZW_xzCBK1Z91M_KA?usp=sharing) proporcionados por Instacart, se llevó a cabo un proceso de limpieza, análisis y visualización de datos para identificar patrones y tendencias clave.
+En la ciudad de Los Ángeles, se ha decidido emprender un proyecto innovador: abrir un pequeño café atendido por robots. Este concepto vanguardista promete atraer la atención de los amantes de la tecnología y revolucionar la experiencia tradicional de un café. Sin embargo, debido a los costos significativos, se necesita atraer inversionistas para asegurar el éxito a largo plazo.
+
+Este informe analiza las condiciones actuales del mercado de locales de comida en Los Ángeles, evaluando la viabilidad y sostenibilidad del café robótico en el tiempo. Está basado en fuentes abiertas sobre restaurantes en LA.
   
 ## Herramientas Utilizadas
 - __Lenguaje de Programación:__ Python.
