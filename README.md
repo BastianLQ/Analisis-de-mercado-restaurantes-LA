@@ -1,5 +1,5 @@
 # Analisis-de-mercado-restaurantes-LA
-__Proyecto de análisis a la plataforma de delivery Instacart, análisis exploratiorio y visualización de datos__
+__Análisis del mercado de los restaurantes en Los Ángeles y presentación para inversionistas__
 
 <image src="https://github.com/BastianLQ/Analisis-de-mercado-restaurantes-LA/blob/main/N10.jpg" alt="Collage de gráficos">
 
