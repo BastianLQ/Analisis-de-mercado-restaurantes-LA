@@ -14,17 +14,17 @@ Este proyecto tiene como objetivo analizar datos de Instacart para extraer infor
 - __Bibliotecas:__ Pandas, Matplotlib.
 
 ## Proceso del Proyecto
-Para completar el análisis de mercado exitosamente se definió la siguiente lista de acciones y preguntas que fueron resueltas en el análisis análisis:
+Para completar el análisis de mercado exitosamente se definió la siguiente lista de acciones y preguntas que fueron resueltas en el análisis.
 
-Investigar las proporciones de los distintos tipos de establecimientos.
-Investigar las proporciones de los establecimientos que pertenecen a una cadena y de los que no.
-¿Qué tipo de establecimiento es habitualmente una cadena?
-¿Qué caracteriza a las cadenas: muchos establecimientos con un pequeño número de asientos o unos pocos establecimientos con un - montón de asientos?
-Determinar el promedio de número de asientos para cada tipo de restaurante. De promedio, ¿qué tipo de restaurante tiene el mayor número de asientos? Traza gráficos.
-Trazar un gráfico de las diez mejores calles por número de restaurantes.
-Encontrar el número de calles que solo tienen un restaurante.
-Para las calles con muchos restaurantes, analizar la distribución del número de asientos y detectar tendencias.
-
+- Investigar las proporciones de los distintos tipos de establecimientos.
+- Investigar las proporciones de los establecimientos que pertenecen a una cadena y de los que no. 
+- ¿Qué tipo de establecimiento es habitualmente una cadena?
+- ¿Qué caracteriza a las cadenas: muchos establecimientos con un pequeño número de asientos o unos pocos establecimientos con un - montón de asientos?
+- Determinar el promedio de número de asientos para cada tipo de restaurante. De promedio, ¿qué tipo de restaurante tiene el mayor número de asientos? Traza gráficos.
+- Trazar un gráfico de las diez mejores calles por número de restaurantes.
+- Encontrar el número de calles que solo tienen un restaurante.
+- Para las calles con muchos restaurantes, analizar la distribución del número de asientos y detectar tendencias.
+  
 ## Relevancia de los descubrimientos
 El análisis de datos de Instacart reveló patrones importantes en el comportamiento de compra de los clientes. Estos insights pueden ser utilizados para optimizar las estrategias de marketing, gestión de inventarios y mejorar la experiencia del cliente.
 
