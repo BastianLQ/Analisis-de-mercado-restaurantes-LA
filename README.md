@@ -3,7 +3,7 @@ __Análisis del mercado de los restaurantes en Los Ángeles y presentación para
 
 <image src="https://github.com/BastianLQ/Analisis-de-mercado-restaurantes-LA/blob/main/N10.jpg" alt="Collage de gráficos">
 
-_Fragmentos del notebook, para ver proyecto completo hacer click [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20Instacart.html)_
+_Fragmentos del notebook, para ver proyecto completo hacer click [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P10.html)_
 
 ## Descripción del Proyecto
 En la ciudad de Los Ángeles, se ha decidido emprender un proyecto innovador: abrir un pequeño café atendido por robots. Este concepto vanguardista promete atraer la atención de los amantes de la tecnología y revolucionar la experiencia tradicional de un café. Sin embargo, debido a los costos significativos, se necesita atraer inversionistas para asegurar el éxito a largo plazo.
@@ -32,5 +32,5 @@ Para completar el análisis de mercado exitosamente se definió la siguiente lis
 ## Relevancia de los descubrimientos
 El análisis del mercado de restaurantes en Los Angeles reveló patrones importanes en la distribución de locales de comida en la ciudad, y también pros y contras de construir una cadena de cafeterías roboticas, proporcionando a los inversores información muy valiosa para dar los primeros pasos en el negocio planteado.
 
-## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20Instacart.html)
+## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P10.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.
